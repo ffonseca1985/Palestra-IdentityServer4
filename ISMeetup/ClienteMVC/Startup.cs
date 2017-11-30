@@ -10,6 +10,8 @@ using System.IdentityModel.Tokens.Jwt;
 
 namespace ClienteMVC
 {
+//Microsoft.AspNetCore.Authentication.Cookies
+//Microsoft.AspNetCore.Authentication.OpenIdConnect
     public class Startup
     {
         public Startup(IConfiguration configuration)

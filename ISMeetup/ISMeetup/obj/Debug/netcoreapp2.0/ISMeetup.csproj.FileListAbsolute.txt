@@ -19,3 +19,4 @@ C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ISMeetup\obj\De
 C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ISMeetup\obj\Debug\netcoreapp2.0\ISMeetup.AssemblyInfo.cs
 C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ISMeetup\obj\Debug\netcoreapp2.0\ISMeetup.dll
 C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ISMeetup\obj\Debug\netcoreapp2.0\ISMeetup.pdb
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ISMeetup\obj\Debug\netcoreapp2.0\ISMeetup.csprojResolveAssemblyReference.cache

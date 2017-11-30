@@ -8,3 +8,4 @@ C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteMVC\obj\
 C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteMVC\obj\Debug\netcoreapp2.0\ClienteMVC.AssemblyInfo.cs
 C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteMVC\obj\Debug\netcoreapp2.0\ClienteMVC.dll
 C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteMVC\obj\Debug\netcoreapp2.0\ClienteMVC.pdb
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteMVC\obj\Debug\netcoreapp2.0\ClienteMVC.csprojResolveAssemblyReference.cache

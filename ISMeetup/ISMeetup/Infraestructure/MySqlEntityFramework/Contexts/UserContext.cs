@@ -1,10 +1,13 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ISMeetup.DomainModel;
+using Microsoft.EntityFrameworkCore;
 
 namespace ISMeetup.Infraestructure.MySqlEntityFramework.Contexts
 {
     public class UserContext : DbContext
     {
         public UserContext() { }
+        
+        public DbSet<User> Usuarios { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
