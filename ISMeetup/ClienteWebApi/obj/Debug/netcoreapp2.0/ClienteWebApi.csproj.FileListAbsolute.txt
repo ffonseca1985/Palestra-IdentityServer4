@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\bin\Debug\netcoreapp2.0\ClienteWebApi.deps.json
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\bin\Debug\netcoreapp2.0\ClienteWebApi.runtimeconfig.json
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\bin\Debug\netcoreapp2.0\ClienteWebApi.runtimeconfig.dev.json
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\bin\Debug\netcoreapp2.0\ClienteWebApi.dll
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\bin\Debug\netcoreapp2.0\ClienteWebApi.pdb
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\obj\Debug\netcoreapp2.0\ClienteWebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\obj\Debug\netcoreapp2.0\ClienteWebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\obj\Debug\netcoreapp2.0\ClienteWebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\obj\Debug\netcoreapp2.0\ClienteWebApi.dll
+C:\Users\User\Desktop\IdentityServer4.1\IdentityServer4\ISMeetup\ClienteWebApi\obj\Debug\netcoreapp2.0\ClienteWebApi.pdb
