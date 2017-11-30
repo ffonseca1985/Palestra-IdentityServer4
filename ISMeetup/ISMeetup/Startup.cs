@@ -16,8 +16,9 @@ namespace ISMeetup
             //.well-known/openid-configuration
             services.AddIdentityServer()
             .AddDeveloperSigningCredential()
-            .AddInMemoryApiResources(Config.GetApiResources())
+            .AddInMemoryIdentityResources(Config.GetIdentityResources())
             .AddInMemoryClients(Config.GetClients())
+            .AddInMemoryApiResources(Config.GetApiResources())
             .AddTestUsers(Config.GetUsers());
         }
 
