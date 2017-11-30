@@ -1,7 +1,9 @@
-﻿using IdentityServer4;
+﻿using IdentityModel;
+using IdentityServer4;
 using IdentityServer4.Models;
 using IdentityServer4.Test;
 using System.Collections.Generic;
+using System.Security.Claims;
 
 namespace ISMeetup.AppStart
 {
@@ -56,7 +58,14 @@ namespace ISMeetup.AppStart
                 {
                     SubjectId = "1",
                     Username = "ffonseca",
-                    Password = "password"
+                    Password = "password",
+                    Claims = new List<Claim>
+                    {
+                        new Claim(JwtClaimTypes.Name, "fabio"),
+                        new Claim(JwtClaimTypes.Id, "fabio"),
+                        new Claim("given_name", "fabio"),
+                        new Claim("family_name", "fonseca")
+                    }
                 },
                 new TestUser
                 {
@@ -75,7 +84,5 @@ namespace ISMeetup.AppStart
                 new IdentityResources.Profile(),
             };
         }
-
-
     }
 }

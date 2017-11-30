@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISMeetup", "ISMeetup\ISMeet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteMVC", "ClienteMVC\ClienteMVC.csproj", "{6666DE8C-6B87-4550-A293-EE58EE2FDE3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteWebApi", "ClienteWebApi\ClienteWebApi.csproj", "{BAB48080-288E-404C-A5EE-947909FA92E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6666DE8C-6B87-4550-A293-EE58EE2FDE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6666DE8C-6B87-4550-A293-EE58EE2FDE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6666DE8C-6B87-4550-A293-EE58EE2FDE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB48080-288E-404C-A5EE-947909FA92E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB48080-288E-404C-A5EE-947909FA92E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB48080-288E-404C-A5EE-947909FA92E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB48080-288E-404C-A5EE-947909FA92E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
