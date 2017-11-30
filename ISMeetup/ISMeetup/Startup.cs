@@ -2,6 +2,9 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using ISMeetup.AppStart;
+using ISMeetup.Infraestructure.MySqlEntityFramework.Contexts;
+using ISMeetup.Infraestructure.MySqlEntityFramework.Repositories;
+using ISMeetup.DomainModel;
 
 namespace ISMeetup
 {
@@ -20,6 +23,10 @@ namespace ISMeetup
             .AddInMemoryClients(Config.GetClients())
             .AddInMemoryApiResources(Config.GetApiResources())
             .AddTestUsers(Config.GetUsers());
+
+            services.AddScoped<UserContext>();
+            services.AddScoped<RepositoryBase<User>>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
