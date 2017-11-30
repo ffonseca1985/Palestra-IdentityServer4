@@ -12581,6 +12581,8 @@
     ".NETCoreApp,Version=v2.0": [
       "IdentityServer4 >= 2.0.4",
       "Microsoft.AspNetCore.All >= 2.0.3",
+      "Microsoft.AspNetCore.Mvc >= 2.0.1",
+      "Microsoft.AspNetCore.StaticFiles >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -12594,11 +12596,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Identity Server 4\\ISMeetup\\ISMeetup\\ISMeetup.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\IdentityServer4.1\\IdentityServer4\\ISMeetup\\ISMeetup\\ISMeetup.csproj",
       "projectName": "ISMeetup",
-      "projectPath": "C:\\Users\\User\\Desktop\\Identity Server 4\\ISMeetup\\ISMeetup\\ISMeetup.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\IdentityServer4.1\\IdentityServer4\\ISMeetup\\ISMeetup\\ISMeetup.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Identity Server 4\\ISMeetup\\ISMeetup\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\IdentityServer4.1\\IdentityServer4\\ISMeetup\\ISMeetup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12636,6 +12638,14 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "2.0.3"
+          },
+          "Microsoft.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "2.0.1"
+          },
+          "Microsoft.AspNetCore.StaticFiles": {
+            "target": "Package",
+            "version": "2.0.1"
           },
           "IdentityServer4": {
             "target": "Package",
