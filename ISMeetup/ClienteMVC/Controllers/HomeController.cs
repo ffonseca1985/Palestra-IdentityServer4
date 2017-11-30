@@ -42,6 +42,8 @@ namespace ClienteMVC.Controllers
         {
             //Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.SignOutAsync
             await HttpContext.SignOutAsync("Cookies");
+            await HttpContext.SignOutAsync("oidc");
+
             return RedirectToAction("Index");
         }
 
